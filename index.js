@@ -78,7 +78,7 @@ const questions = [
         message: "execute test script",
         default: "npm run test"
         // to run tests
-        // npm run test
+        // npm run testf
     },
     {
         type: "input",
