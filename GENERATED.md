@@ -1,9 +1,9 @@
-# test
-  ![GitHub license](https://img.shields.io/badge/license-GPL 3.0-blue.svg)
+# readme generator
+  ![GitHub license](https://img.shields.io/badge/license-wtfpl-blue.svg)
 
   ## Description
 
-  test
+  code
 
   ## Table of Contents 
 
@@ -25,31 +25,31 @@
   Run the following npm command using git to install repo dependencies:
 
   ```
-  npm 
+  node index.js
   ```
 
   ## Usage
 
-  test
+  it works
 
   ## License
-    This project is licensed under the GPL 3.0 license.
+    This project is licensed under the wtfpl license.
 
   ## Contributing 
 
-  test
+  I won't at this time
 
   ## Tests
 
   To run tests, run the following command:
 
   ```
-  npm run test
+  yes
   ```
 
   ## Questions 
 
-  Questions? Shoot me a messsage at test. 
+  Questions? Shoot me a messsage at 123@gmail.com. 
 
-  Find all my work here [test](https://github.com/test/)!
+  Find all my work here [lydia-tech](https://github.com/lydia-tech/)!
   
