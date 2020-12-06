@@ -1,12 +1,9 @@
-# Professional README Generator 
-![README GENERATED SCREENSHOT](https://dev-to-uploads.s3.amazonaws.com/i/iu0bvjpqc49j1u6u168h.png)
-
-# readme generator
+# readmegenerator
   ![GitHub license](https://img.shields.io/badge/license-wtfpl-blue.svg)
 
   ## Description
 
-  code
+  none
 
   ## Table of Contents 
 
@@ -28,12 +25,31 @@
   Run the following npm command using git to install repo dependencies:
 
   ```
-  node index.js
+  npm install
   ```
 
   ## Usage
 
-  it works
+  yes
 
   ## License
     This project is licensed under the wtfpl license.
+
+  ## Contributing 
+
+  none
+
+  ## Tests
+
+  To run tests, run the following command:
+
+  ```
+  npm run test
+  ```
+
+  ## Questions 
+
+  Questions? Shoot me a messsage at email@gmail.com. 
+
+  Find all my work here [Lydia-tech](https://github.com/Lydia-tech/)!
+  
