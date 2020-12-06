@@ -6,7 +6,12 @@
 
   ## Description
 
-  code
+This application generates README.md files based on what the user inputs. Using 
+nmp inquirer, the user will be prompted to answer questions that will create a README.md file for projects includi
+ng prompts to add the project title, a brief description, installation instructions, project usage, additions made
+ to the project as well as tests that can be run, a license for the project, a GitHub username and an email address 
+ to be contacted for information and or questions.
+
 
   ## Table of Contents 
 
