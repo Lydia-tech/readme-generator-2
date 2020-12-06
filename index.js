@@ -106,7 +106,7 @@ const transcribeFile = (fileName, data) => {
 function init() {
     inquirer.prompt(questions).then((inquirerResponses) => {
         console.log("README generating...");
-        transcribeFile("GENERATED.md", generateMarkdown({ ...inquirerResponses }))
+        transcribeFile("public/GENERATED.md", generateMarkdown({ ...inquirerResponses }))
         console.log("README has generated.");
         
     })
